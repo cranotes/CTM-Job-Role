@@ -46,19 +46,38 @@ Compile monthly and weekly EDC reports necessary for monitoring site data and qu
 
 
 ```                
-Acted in a lead role in building the clinical operations department, developing SOPs, work practices and implementing EDC and a CTMS.
-Responsible for all aspects of the clinical trial start-up including, identification, evaluation and management of CROs and vendors.
+Acted in a lead role in building the clinical operations department, 
+developing SOPs, work practices and implementing EDC and a CTMS.
+
+Responsible for all aspects of the clinical trial start-up including, 
+identification, evaluation and management of CROs and vendors.
+
 Developed and manage the budget, timeline, monitoring schedule and all monitoring activities.
+
 Participated in site selection, qualification, monitoring and ongoing site/investigator support.
+
 Wrote and maintained Monitoring, Data Management and Communication Plans.  
 
 
-                
-Successfully designed, implemented, managed and analyzed clinical trials for 8 biomarker assays, including assays for cTnI, HFABP and D-DimerWorked as a lead member of a multifunctional team that includes 2 sites (U.S. and China) and 4 departments (regulatory affairs, R&D, QA/QC and manufacture) in applying for CFDA approval: 5 assays approved, and 3 additional pendingInitiated, established and further developed partnerships with key opinion leaders(KOLs)Developed major research projects in collaboration with KOLs.
-
 
                 
-Managed and oversaw global clinical programs, CROs, and other selected vendors.Requested and reviewed RFPs from various outsourcing vendors and recommend selection to senior management based on cost analysis and capabilities.Provided oversight and management of investigator and site management issues.Facilitated global contractual and budget negotiations with investigators and vendors.Created or assisted in the development of study documents (protocols, case report forms, sample consent forms, study reference materials, etc).Supported business development activities that included due diligence meetings with potential partners, organized and represented the company at trade shows.Conducted oversight and booster visits to clinical sites (domestically and globally). 
+Managed and oversaw global clinical programs, CROs, and other selected vendors.
+
+Requested and reviewed RFPs from various outsourcing vendors and 
+recommend selection to senior management based on cost analysis and capabilities.
+
+
+Provided oversight and management of investigator and site management issues.
+
+Facilitated global contractual and budget negotiations with investigators and vendors.
+
+Created or assisted in the development of study documents 
+(protocols, case report forms, sample consent forms, study reference materials, etc).
+
+Supported business development activities that included due diligence 
+meetings with potential partners, organized and represented the company at trade shows.
+
+Conducted oversight and booster visits to clinical sites (domestically and globally). 
 
 
                 
