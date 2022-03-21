@@ -5,13 +5,18 @@ The primary responsibility for a clinical trial manager is managing new and ongo
 
 He or she is in charge of preparing protocols and case forms and finalizing monitoring and data management options. 
 
-He or she is responsible for the development of recruitment methods to increase patient randomization into the trial, approval for trials from an ethics committee, delivery of materials for clinical trials, and coordinating the trial to make sure it runs smoothly. 
+He or she is responsible for the development of recruitment methods to increase patient randomization 
+into the trial, approval for trials from an ethics committee, delivery of materials for clinical trials, 
+and coordinating the trial to make sure it runs smoothly. 
 
-A clinical trial manager also trains, directs, and manages other professionals, such as clinical trial investigators, clinical trial nurses, and other clinical trial associates. 
+A clinical trial manager also trains, directs, and manages other professionals, 
+such as clinical trial investigators, clinical trial nurses, and other clinical trial associates. 
 
 He or she must make sure all individuals are up to date on all aspects of a clinical trial. 
 
-A clinical trial manager also spends a great deal of time communicating with other professionals via phone, email, and face-to-face meetings to make sure the whole clinical trial team is consistently aware of any relevant information and issues.
+A clinical trial manager also spends a great deal of time communicating with 
+other professionals via phone, email, and face-to-face meetings to make sure 
+the whole clinical trial team is consistently aware of any relevant information and issues.
 
 Manage SAEs and assure they are properly record and report.
 
@@ -23,7 +28,8 @@ Lead study data management activities for oncology trials in preparation for stu
 
 Create document templates require by FDA and ICH regulations for site distribution.
 
-Ensure study adherence to all regulatory matters and sponsor requirements according to FDA regulations, GCP and ICH guidelines.
+Ensure study adherence to all regulatory matters and sponsor 
+requirements according to FDA regulations, GCP and ICH guidelines.
 
 Perform regular reviews of data according to data review/monitoring guidelines (CTMS, EDC, IVRS, ISIS).
 Facilitate compliance with the requirements of oncology research protocols.
